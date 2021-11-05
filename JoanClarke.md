@@ -1,5 +1,5 @@
 # Joan Clarke
-![img_joanclarke.jpg](JoanClarke.jpeg)
+![img_joanclarke.jpg](JoanClarke)
 Joan Elisabeth Lowther Murray, nacida como Joan Elisabeth Lowther Clarke (Londres, 24 de junio de 1917 – Oxford, 4 de septiembre de 1996) fue una criptoanalista y numismática británica que trabajó en Bletchley Park durante la Segunda Guerra Mundial.
 - Fue la única mujer que trabajó en el equipo del matemático Alan Turing en el proyecto Enigma, que desencriptó las comunicaciones secretas de la Alemania nazi. Su papel en este proceso le valió premios y citaciones, como el nombramiento como miembro de la Orden del Imperio Británico (MBE), en 1946.
 - En junio de 1940, Clarke fue reclutada por su antiguo supervisor académico, Gordon Welchman, para la Government Code and Cypher School **GCCS** Trabajó en Bletchley Park en la sección conocida como Hut 8 y rápidamente se convirtió en la única mujer practicante de 'banburismus', un proceso criptoanalítico desarrollado por Alan Turing que redujo la necesidad de bombes (dispositivos electromecánicos como los utilizados por los criptólogos británicos Welchman y Turing para descifrar mensajes encriptados alemanes durante la Segunda Guerra Mundial).
